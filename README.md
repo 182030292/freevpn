@@ -18,7 +18,7 @@ https://topvpn.team/github/t.list
 
 如遇问题需支持，可联系wx，打赏也可联系
 
-![qr](/Users/daming/Downloads/qr.jpg)
+![qr](https://github.com/wms521125/freevpn/blob/main/src/qr.jpg?raw=true)
 
 ## 付费VPN
 
