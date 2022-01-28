@@ -4,7 +4,7 @@
 
  客户端 | Windows | Mac | Android | iOS 
  :-: | :-: | :-:| :-:| :-:
- 下载地址 | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) | [v2rayU](https://github.com/yanue/V2rayU/releases/tag/3.2.0) | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [OneClick](https://oneclick.earth/) 
+ 下载地址 | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) | [v2rayU](https://github.com/yanue/V2rayU/releases/tag/3.2.0) | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 
 
 ## 使用方法
 
