@@ -1,4 +1,4 @@
-更新时间 2022-02-15
+更新时间 2022-02-16
 
 分享不易，兄弟们多 star 下！
 
@@ -24,9 +24,9 @@ https://topvpn.team/github/t.list
 
 ## 付费VPN
 
-工薪阶层：5元100GB，偶有不稳定，速度一般
+工薪阶层：每月10元钱，开发妥妥的
 
-[ttk](https://www.ttkcloud.icu/#/register?code=Ea81Vlnq)
+[饿饭](https://efanccyun.net/aff.php?aff=8529)
 
 小康家庭：不限流量，不限速度，一天1元钱，支持所有终端
 
