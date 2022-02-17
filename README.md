@@ -26,7 +26,7 @@ https://topvpn.team/github/t.list
 
 工薪阶层：每月10元钱，开发妥妥的
 
-[饿饭](https://efanccyun.net/aff.php?aff=8529)
+[饿饭(已稳定运行6年)](https://efanccyun.net/aff.php?aff=8529)
 
 小康家庭：不限流量，不限速度，一天1元钱，支持所有终端
 
